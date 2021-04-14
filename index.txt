@@ -1,1 +1,10 @@
-Qq
+Вносишь копипаст
+git config username email
+
+
+
+
+
+git add . добавить
+it push отправить
+git pill взять
